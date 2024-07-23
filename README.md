@@ -1,4 +1,4 @@
-# CRUD de Empresas utilizando JSF + Primefaces
+# CRUD de Empresas utilizando JSF, Primefaces + Exportação via Excel
 
 ## Características
 
